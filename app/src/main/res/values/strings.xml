@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Speedo</string>
+    <string name="curr_speed">Current Speed</string>
+    <string name="max_speed">Max Speed</string>
+    <string name="rs_max_speed">RESET MAX SPEED</string>
+    <string name="distance">Distance</string>
+    <string name="rs_distance">RESET DISTANCE</string>
+    <string name="no_of_satellites">No of Satellites</string>
+    <string name="access_rights_granted">Access rights granted</string>
+    <string name="access_rights_NOT_granted">Access rights not granted</string>
+    <string name="on_data_init">Data initialized</string>
+    <string name="app_status_changed">app status changed</string>
+    <string name="current_speed">current speed: </string>
+    <string name="kmh">kmh</string>
+    <string name="current_distance">current distance</string>
+    <string name="m">m</string>
+</resources>
